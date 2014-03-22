@@ -1,0 +1,10 @@
+{application,states,
+             [{registered,[video_store]},
+              {description,"states"},
+              {vsn,"0.0.1"},
+              {modules,['Elixir.StateMachine.Behavior','Elixir.StateMachine',
+                        'Elixir.States.Server','Elixir.States.Supervisor',
+                        'Elixir.States','Elixir.VidStore','Elixir.Video',
+                        'Elixir.VideoStore.Concrete','Elixir.VideoStore']},
+              {applications,[kernel,stdlib,elixir]},
+              {mod,{'Elixir.States',[]}}]}.

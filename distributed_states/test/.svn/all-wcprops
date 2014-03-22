@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Bookshelf/!svn/ver/152053/titles/7lang/Book/code/elixir/day3/states/test
+END
+concrete_test.exs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Bookshelf/!svn/ver/152053/titles/7lang/Book/code/elixir/day3/states/test/concrete_test.exs
+END
+states_test.exs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Bookshelf/!svn/ver/152053/titles/7lang/Book/code/elixir/day3/states/test/states_test.exs
+END
+vid_store_test.exs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Bookshelf/!svn/ver/152053/titles/7lang/Book/code/elixir/day3/states/test/vid_store_test.exs
+END
+test_helper.exs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Bookshelf/!svn/ver/152053/titles/7lang/Book/code/elixir/day3/states/test/test_helper.exs
+END
